@@ -215,17 +215,3 @@ This verified that pfSense successfully mitigated the simulated DoS attack.
 - Configure firewall aliases
 - Automate threat detection workflows
 
----
-
-# 👨‍💻 Author
-
-**Dhruv Kachchhi**
-
-Aspiring SOC Analyst | Cybersecurity Enthusiast
-
-- LinkedIn: *(Add your profile link)*
-- GitHub: *(Add your GitHub profile link)*
-
----
-
-## ⭐ If you found this project useful, consider giving it a star!
