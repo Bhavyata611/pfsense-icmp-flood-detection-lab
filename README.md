@@ -26,7 +26,7 @@ This project provides practical experience in firewall administration, packet an
 The following diagram illustrates the network topology used in this project.
 
 <p align="center">
-  <img src="images/architecture.png" alt="Lab Architecture" width="900">
+  <img src="screenshots/architecture.png" alt="Lab Architecture" width="900">
 </p>
 
 ---
