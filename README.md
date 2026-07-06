@@ -148,31 +148,31 @@ This verified that pfSense successfully mitigated the simulated DoS attack.
 
 ## pfSense Dashboard
 
-![Dashboard](screenshots/01-pfsense-dashboard.png)
+![Dashboard](screenshots/pfsense-dashboard.png)
 
 ---
 
 ## Wireshark ICMP Traffic Capture
 
-![Wireshark](screenshots/02-wireshark-icmp-flood.png)
+![Wireshark](screenshots/wireshark-icmp-flood.png)
 
 ---
 
 ## Kali Linux ICMP Flood Attack
 
-![Attack](screenshots/03-kali-hping3-attack.png)
+![Attack](screenshots/kali-hping3-attack.png)
 
 ---
 
 ## pfSense Firewall Rules
 
-![Rules](screenshots/04-pfsense-block-rule.png)
+![Rules](screenshots/pfsense-block-rule.png)
 
 ---
 
 ## pfSense Firewall Logs
 
-![Logs](screenshots/05-pfsense-firewall-logs.png)
+![Logs](screenshots/pfsense-firewall-logs.png)
 
 ---
 
