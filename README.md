@@ -21,23 +21,13 @@ This project provides practical experience in firewall administration, packet an
 
 ---
 
-# 🏗️ Lab Architecture
+## 🏗️ Lab Architecture
 
-```
-                Internet / Host Network
-                        │
-                        │
-                Kali Linux (Attacker)
-                 10.200.246.192
-                        │
-                WAN Interface
-                  pfSense Firewall
-                LAN Interface (192.168.1.1)
-                        │
-                        │
-              Ubuntu Desktop (Victim)
-                 192.168.1.100
-```
+The following diagram illustrates the network topology used in this project.
+
+<p align="center">
+  <img src="images/architecture.png" alt="Lab Architecture" width="900">
+</p>
 
 ---
 
